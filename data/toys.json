@@ -1,0 +1,101 @@
+[
+    {
+        "picture": "https://images.unsplash.com/photo-1533859583213-c4e11b597ee0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+        "toy_name": "Plush Bear",
+        "price": 24.99,
+        "rating": 4.8,
+        "seller_name": "Teddy Treasures",
+        "sub_category": "Plush",
+        "available_quantity": 6
+    },
+    {
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/71Rzl6D-YNL._AC_UL600_SR600,600_.jpg",
+        "toy_name": "Interactive Monkey",
+        "price": 39.99,
+        "rating": 4.6,
+        "seller_name": "Smart Toys",
+        "sub_category": "Electronic",
+        "available_quantity": 2
+    },
+    {
+        "picture": "https://m.media-amazon.com/images/I/81i+Cd47ZXL._AC_UF894,1000_QL80_.jpg",
+        "toy_name": "Singing Penguin",
+        "price": 17.99,
+        "rating": 4.3,
+        "seller_name": "Melody Pets",
+        "sub_category": "Plush",
+        "available_quantity": 12
+    },
+    {
+        "picture": "https://q5r8i2t3.rocketcdn.me/wp-content/uploads/2020/06/Tiger-Figure-by-Papo.jpg",
+        "toy_name": "Wild Tiger Figure",
+        "price": 9.99,
+        "rating": 4.1,
+        "seller_name": "Animal Adventures",
+        "sub_category": "Action Figure",
+        "available_quantity": 15
+    },
+    {
+        "picture": "https://i5.walmartimages.com/asr/fd58636f-6fe7-49ce-8d88-818bc5552701_1.bd6e258e2e2bb6fe73c470fab0728ccf.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+        "toy_name": "Barking Dog",
+        "price": 29.99,
+        "rating": 4.7,
+        "seller_name": "Puppy Playtime",
+        "sub_category": "Electronic",
+        "available_quantity": 4
+    },
+    {
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/81GBJZwXpDL._AC_UL600_SR600,600_.jpg",
+        "toy_name": "Scratching Cat Tree",
+        "price": 49.99,
+        "rating": 4.9,
+        "seller_name": "Feline Fun",
+        "sub_category": "Playset",
+        "available_quantity": 7
+    },
+    {
+        "picture": "https://i.pinimg.com/originals/c2/ac/3c/c2ac3cd3c66664af6e5fbfc4579450d0.jpg",
+        "toy_name": "Zebra Hand Puppet",
+        "price": 8.99,
+        "rating": 4.4,
+        "seller_name": "Imaginary Friends",
+        "sub_category": "Puppet",
+        "available_quantity": 9
+    },
+    {
+        "picture": "https://m.media-amazon.com/images/I/81aHw2o9dzL.jpg",
+        "toy_name": "Galloping Horse",
+        "price": 34.99,
+        "rating": 4.6,
+        "seller_name": "Equestrian Toys",
+        "sub_category": "Plush",
+        "available_quantity": 3
+    },
+    {
+        "picture": "https://example.com/images/owl_toy.jpg",
+        "toy_name": "Wise Owl Puzzle",
+        "price": 12.99,
+        "rating": 4.3,
+        "seller_name": "Puzzle Palace",
+        "sub_category": "Puzzle",
+        "available_quantity": 11
+    },
+    {
+        "picture": "https://static-01.daraz.com.bd/p/e48b2e077f8e3bc278196c8c5cca4b8b.jpg_720x720.jpg_.webp",
+        "toy_name": "Swimming Shark",
+        "price": 19.99,
+        "rating": 4.2,
+        "seller_name": "Aquatic Adventures",
+        "sub_category": "Bath",
+        "available_quantity": 11
+    },
+    {
+        "picture": "https://media.istockphoto.com/id/1139848925/photo/black-cow-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=P-T07qEv2S23ML9OGKAD8f1ggfNI4i4sCW1RPPvkeCU=",
+        "toy_name": "Black Cow",
+        "price": 19.99,
+        "rating": 4.2,
+        "seller_name": "Aquatic Adventures",
+        "sub_category": "Bath",
+        "available_quantity": 11
+    }
+]
