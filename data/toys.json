@@ -14,7 +14,7 @@
         "price": 39.99,
         "rating": 4.6,
         "seller_name": "Smart Toys",
-        "sub_category": "Electronic",
+        "sub_category": "Plush",
         "available_quantity": 2
     },
     {
@@ -32,7 +32,7 @@
         "price": 9.99,
         "rating": 4.1,
         "seller_name": "Animal Adventures",
-        "sub_category": "Action Figure",
+        "sub_category": "Puppet",
         "available_quantity": 15
     },
     {
@@ -41,7 +41,7 @@
         "price": 29.99,
         "rating": 4.7,
         "seller_name": "Puppy Playtime",
-        "sub_category": "Electronic",
+        "sub_category": "Plush",
         "available_quantity": 4
     },
     {
@@ -50,7 +50,7 @@
         "price": 49.99,
         "rating": 4.9,
         "seller_name": "Feline Fun",
-        "sub_category": "Playset",
+        "sub_category": "Bath",
         "available_quantity": 7
     },
     {
@@ -85,7 +85,7 @@
         "toy_name": "Swimming Shark",
         "price": 19.99,
         "rating": 4.2,
-        "seller_name": "Aquatic Adventures",
+        "seller_name": "Puzzle",
         "sub_category": "Bath",
         "available_quantity": 11
     },
@@ -94,7 +94,7 @@
         "toy_name": "Black Cow",
         "price": 19.99,
         "rating": 4.2,
-        "seller_name": "Aquatic Adventures",
+        "seller_name": "Puzzle",
         "sub_category": "Bath",
         "available_quantity": 11
     }
