@@ -68,11 +68,11 @@
         "price": 34.99,
         "rating": 4.6,
         "seller_name": "Equestrian Toys",
-        "sub_category": "Plush",
+        "sub_category": "Puzzle",
         "available_quantity": 3
     },
     {
-        "picture": "https://example.com/images/owl_toy.jpg",
+        "picture": "https://cdn.shopify.com/s/files/1/0652/1975/6246/products/1_33420416-8c52-43ac-be47-8f41c21012a3.png?v=1672317345&width=416",
         "toy_name": "Wise Owl Puzzle",
         "price": 12.99,
         "rating": 4.3,

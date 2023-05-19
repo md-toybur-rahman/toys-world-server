@@ -36,6 +36,12 @@ async function run() {
 
     const toysCollection = client.db('toys-world-DB').collection('toys');
 
+    app.get('/toys', async(req, res) => {
+      const cursor = toysCollection.find();
+      const result = await cursor.toArray();
+      res.send(result);
+    })
+
     app.get('/toys/plush', async(req, res) => {
         const query = {sub_category: "Plush"} 
         const cursor = toysCollection.find(query);
