@@ -42,6 +42,17 @@ async function run() {
       res.send(result);
     })
 
+
+    app.get('/myToys', async(req, res) => {
+      let query = {};
+      if(req.query?.email) {
+        query = {email: req.query.email}
+      }
+      const result = await toysCollection.find(query).toArray();
+      res.send(result);
+    })
+
+
     app.get('/toys/plush', async(req, res) => {
         const query = {sub_category: "Plush"} 
         const cursor = toysCollection.find(query);
