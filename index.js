@@ -70,6 +70,12 @@ async function run() {
         res.send(result);
     });
 
+    app.post('/toys', async(req, res) => {
+      const newToys = req.body;
+      const result = await(toysCollection.insertOne(newToys));
+      res.send(result)
+    })
+
 
 
 
