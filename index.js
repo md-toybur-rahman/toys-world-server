@@ -105,6 +105,7 @@ async function run() {
           price: updatedToy.price,
           available_quantity: updatedToy.available_quantity,
           picture: updatedToy.picture,
+          rating: updatedToy.rating,
           description: updatedToy.description
         }
       }
